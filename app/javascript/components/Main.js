@@ -7,7 +7,7 @@ import Home from './Home'
 import Taskpage from './Taskpage'
 import Manual from './Manual'
 import Tagpage from './Tagpage'
-import 'pure-css'
+
 class Main extends Component {
 	constructor(){
 		super();

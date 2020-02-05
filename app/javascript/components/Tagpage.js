@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import MyContext from './MyContext';
-import 'pure-css'
+
 
 class Tagpage extends Component{
 	static contextType=MyContext;
